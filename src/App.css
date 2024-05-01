@@ -1,0 +1,15 @@
+.nav-item {
+  text-decoration: none;
+  border-bottom: #000;
+  color: #000;
+  border: 1px solid;
+  margin-right: 10px;
+}
+
+.nav-item:hover {
+  background-color: rgb(234, 230, 225);
+}
+
+.nav-item:active {
+  background-color: rgb(243, 236, 226);
+}
